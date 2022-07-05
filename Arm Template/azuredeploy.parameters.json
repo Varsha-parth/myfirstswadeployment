@@ -15,13 +15,13 @@
                 "value": "Free"
             },
             "repositoryUrl": {
-                "value": "https://github.com/<YOUR-GITHUB-USER-NAME>/<YOUR-GITHUB-REPOSITORY-NAME>"
+                "value": "https://github.com/Varsha-parth/myfirstswadeployment"
             },
             "branch": {
                 "value": "main"
             },
             "repositoryToken": {
-                "value": "<YOUR-GITHUB-PAT>" 
+                "value": "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" 
             },
             "appLocation": {
                 "value": "/"
